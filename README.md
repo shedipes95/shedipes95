@@ -12,9 +12,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sepidehsj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shedipes95@gmail.com)
 
 ## 📌 Featured Projects
-- **[Credit-Risk Prediction with Explainable AI](https://github.com/shedipes95/credit-risk-explainable-ai)** — a neural network for credit-default prediction on imbalanced financial data, made transparent with SHAP (global + per-decision explanations).
-- **[CSV → KPI Tool](https://github.com/shedipes95/csv-kpi-script)** — a pandas CLI that turns a transactions CSV into KPIs and category totals (JSON/CSV output, month filter).
-- *More data & ML projects (CNN image classification on Azure, finance dashboard) coming soon.*
+- **[Credit Scoring with Explainability & Fairness](https://github.com/shedipes95/credit-scoring-fairness)** — a credit-risk model (ROC-AUC 0.80) explained with SHAP and audited for fairness across sex and age.
+- **[Retail Bank Analytics Dashboard](https://github.com/shedipes95/bank-analytics-dashboard)** — an interactive Streamlit dashboard · **[▶ live demo](https://bank-analytics-dashboard-dree2a4jrhjuohihadsdsn.streamlit.app/)**
+- **[SQL Financial Analytics](https://github.com/shedipes95/sql-finance-analytics)** — a retail-bank database with advanced analytical SQL (JOINs, CTEs, window functions).
+- **[Credit-Risk Prediction with Explainable AI](https://github.com/shedipes95/credit-risk-explainable-ai)** — a neural network for credit-default prediction, made transparent with SHAP.
+- **[CSV → KPI Tool](https://github.com/shedipes95/csv-kpi-script)** — a pandas CLI that turns a transactions CSV into KPIs and category totals.
 
 ## 💻 Tech Stack
 **Data & ML**
