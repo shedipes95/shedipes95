@@ -15,6 +15,7 @@
 - **[Credit Scoring with Explainability & Fairness](https://github.com/shedipes95/credit-scoring-fairness)** — a credit-risk model (ROC-AUC 0.80) explained with SHAP and audited for fairness across sex and age.
 - **[Retail Bank Analytics Dashboard](https://github.com/shedipes95/bank-analytics-dashboard)** — an interactive Streamlit dashboard · **[▶ live demo](https://bank-analytics-dashboard-dree2a4jrhjuohihadsdsn.streamlit.app/)**
 - **[SQL Financial Analytics](https://github.com/shedipes95/sql-finance-analytics)** — a retail-bank database with advanced analytical SQL (JOINs, CTEs, window functions).
+- **[Market Risk & Return Analysis](https://github.com/shedipes95/market-risk-returns)** — Sharpe, volatility, correlation and drawdown across a multi-asset basket; diversification on real market data.
 - **[Credit-Risk Prediction with Explainable AI](https://github.com/shedipes95/credit-risk-explainable-ai)** — a neural network for credit-default prediction, made transparent with SHAP.
 - **[CSV → KPI Tool](https://github.com/shedipes95/csv-kpi-script)** — a pandas CLI that turns a transactions CSV into KPIs and category totals.
 
