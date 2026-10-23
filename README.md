@@ -10,27 +10,27 @@ Dublin and open to data, analytics and AI roles.
 ## Projects
 
 **[credit-threshold-lab](https://github.com/shedipes95/credit-threshold-lab)** ·
-[live app](https://credit-threshold-lab.streamlit.app/)
+[live app](https://credit-threshold-lab.streamlit.app/)  
 Move the decision threshold on a credit-risk model and watch what changes: the confusion
 matrix, the cost of the mistakes, and who they fall on. Working the cost arithmetic
 backwards shows that the usual 0.5 cut-off assumes a missed default costs about 11 times
 more than a wrongly refused applicant. Tested functions, 37 tests, CI.
 
-**[credit-default-nn-shap](https://github.com/shedipes95/credit-default-nn-shap)**
+**[credit-default-nn-shap](https://github.com/shedipes95/credit-default-nn-shap)**  
 A Keras network predicting loan default on 307,511 Home Credit applications, about 8% of
 them positive. Evaluation built around recall rather than accuracy, SHAP explanations
 for individual predictions, and an honest write-up of what the model gets wrong.
 
-**[sql-finance-analytics](https://github.com/shedipes95/sql-finance-analytics)**
+**[sql-finance-analytics](https://github.com/shedipes95/sql-finance-analytics)**  
 Analytical SQL on a synthetic retail-bank database: joins, CTEs and window functions
 answering business questions such as monthly flows, cohorts and default rates by segment.
 
 **[MYAI-MVP](https://github.com/shedipes95/MYAI-MVP)** ·
-[live demo](https://shedipes95.github.io/MYAI-MVP/)
+[live demo](https://shedipes95.github.io/MYAI-MVP/)  
 A React and TypeScript personal-finance dashboard: upload a bank CSV, see spending by
 category, and track budgets, savings and loans.
 
-**[groundcheck](https://github.com/shedipes95/groundcheck)**
+**[groundcheck](https://github.com/shedipes95/groundcheck)**  
 The checking code from my MSc thesis, cleaned up and published. It follows the FActScore
 approach (Min et al., 2023) to check an LLM's answer claim by claim against its source,
 and adds a measure of how well the automated verdicts agree with a human reviewer.
