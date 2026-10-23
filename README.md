@@ -27,8 +27,9 @@ answering business questions such as monthly flows, cohorts and default rates by
 
 **[MYAI-MVP](https://github.com/shedipes95/MYAI-MVP)** ·
 [live demo](https://shedipes95.github.io/MYAI-MVP/)  
-A React and TypeScript personal-finance dashboard: upload a bank CSV, see spending by
-category, and track budgets, savings and loans. The demo is front-end only: sign in with any
+A React and TypeScript personal-finance dashboard from a team project at the National AI
+Challenge Ireland, where I built the front end: upload a bank CSV, see spending by category,
+and track budgets, savings and loans. The demo is front-end only: sign in with any
 email and password.
 
 **[groundcheck](https://github.com/shedipes95/groundcheck)**  
