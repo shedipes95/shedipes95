@@ -42,8 +42,8 @@ and adds a measure of how well the automated verdicts agree with a human reviewe
 model with SHAP and a fairness check across sex and age),
 [market-risk-returns](https://github.com/shedipes95/market-risk-returns),
 [financial-sentiment-nlp](https://github.com/shedipes95/financial-sentiment-nlp), and a few
-small web projects: [tastely-frontend](https://github.com/shedipes95/tastely-frontend) with
-its [Express proxy](https://github.com/shedipes95/mealdb-proxy-express), and
+small web projects: [tastely-frontend](https://github.com/shedipes95/tastely-frontend)
+([live](https://tastely-frontend.vercel.app)) with its [Express proxy](https://github.com/shedipes95/mealdb-proxy-express), and
 [django-crud-htmx](https://github.com/shedipes95/django-crud-htmx).
 
 ## Tools
